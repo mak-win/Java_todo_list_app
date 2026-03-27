@@ -1,0 +1,3 @@
+eat,false
+cook,true
+cook food,false
